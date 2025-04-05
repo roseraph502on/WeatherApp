@@ -23,7 +23,7 @@ body{
   margin: 0 auto;
   text-align: center;
   font-family: 'Cafe24Meongi-W-v1.0';
-  width: 50vw;
+  width: 40vw;
   height: 100vh;
 }
 /* 로딩화면 */
@@ -93,7 +93,6 @@ button:hover {
 @media (max-width: 767px) {
   #root {
     width: 90vw;
-    padding: 2vh;
   }
   img{height: 20vh;  }
   h2{font-size: x-large;  }
