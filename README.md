@@ -1,6 +1,6 @@
 사이트 주소 : 
 https://weather-app-mauve-five-18.vercel.app/
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/284272e0-9fcb-4f2c-8ff5-3d17c9945919)
 
 # React + Vite
 
